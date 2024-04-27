@@ -1,0 +1,14 @@
+C:\education\Sem2_easy_algoritm\Task 1\bin\Debug\net8.0\Task 1.exe
+C:\education\Sem2_easy_algoritm\Task 1\bin\Debug\net8.0\Task 1.deps.json
+C:\education\Sem2_easy_algoritm\Task 1\bin\Debug\net8.0\Task 1.runtimeconfig.json
+C:\education\Sem2_easy_algoritm\Task 1\bin\Debug\net8.0\Task 1.dll
+C:\education\Sem2_easy_algoritm\Task 1\bin\Debug\net8.0\Task 1.pdb
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfoInputs.cache
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.AssemblyInfo.cs
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.csproj.CoreCompileInputs.cache
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.dll
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\refint\Task 1.dll
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.pdb
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\Task 1.genruntimeconfig.cache
+C:\education\Sem2_easy_algoritm\Task 1\obj\Debug\net8.0\ref\Task 1.dll
